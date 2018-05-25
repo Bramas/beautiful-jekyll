@@ -18,4 +18,4 @@ I studied mathematics at the University of Clermont-Ferrand and computer science
 
 ## Slides
 
-Introduction to Blockchains](/slides/Introduction to DLTs.pdf)
+[Introduction to Blockchains](/slides/Introduction to DLTs.pdf)
