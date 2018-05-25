@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quentin Bramas
-subtitle: My publications, projects and teaching materials
+subtitle: 'My publications, projects and teaching materials'
 published: true
 ---
 
@@ -15,3 +15,7 @@ I am working on:
  - Autonomous mobile robots
 
 I studied mathematics at the University of Clermont-Ferrand and computer science at the University of Paris 5.
+
+## Slides
+
+Introduction to Blockchains](/slides/Introduction to DLTs.pdf)
