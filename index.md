@@ -5,11 +5,6 @@ subtitle: My publications, projects and teaching materials
 published: true
 ---
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-About
-=====
 
 I am a Assistant Professor (*Maître de conférences*) at the University of Strasbourg, France. I am a member of ICUBE Laboratory in the [*Networks* Team](http://icube-reseaux.unistra.fr/fr/index.php/Accueil). I have done my Phd with Professor Sébastien Tixeuil at Lip6, in Paris, in 2016.
 
