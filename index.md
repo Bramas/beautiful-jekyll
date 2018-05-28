@@ -16,6 +16,6 @@ I am working on:
 
 I studied mathematics at the University of Clermont-Ferrand and computer science at the University of Paris 5.
 
-## Slides
+## Seminars
 
-[Introduction to Blockchains](/slides/Introduction to DLTs.pdf)
+ICUBE Seminar : Introduction to Blockchains [slides](/slides/Introduction to DLTs.pdf)
