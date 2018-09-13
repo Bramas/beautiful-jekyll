@@ -16,12 +16,4 @@ Sur moodle
 [Documentation](https://bramas.gitlab.io/libtps.h/)
 
 * [Cours 1](https://bramas.gitlab.io/tps-c/)
-* [Cours 2](https://bramas.gitlab.io/tps-c/index.html?file=cours2)
-* [Cours 3](https://bramas.gitlab.io/tps-c/index.html?file=cours3)
-* [Cours 4](https://bramas.gitlab.io/tps-c/index.html?file=cours4)
-* [Cours 5](https://bramas.gitlab.io/tps-c/index.html?file=cours5)
-* [Cours 6](https://bramas.gitlab.io/tps-c/index.html?file=cours6)
-* [Cours 7](https://bramas.gitlab.io/tps-c/index.html?file=cours7)
-* [Cours 8](https://bramas.gitlab.io/tps-c/index.html?file=cours8)
-* [Cours 9](https://bramas.gitlab.io/tps-c/index.html?file=cours9)
-* [Cours 10](https://bramas.gitlab.io/tps-c/index.html?file=cours10)
+* [CI1 1](https://bramas.gitlab.io/tps-c/index.html?file=CI1)
