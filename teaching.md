@@ -20,3 +20,4 @@ Sur moodle
 * [Cours 3](https://bramas.gitlab.io/tps-c/index.html?file=cours3) [TP 3](https://bramas.gitlab.io/tps-c/index.html?file=TP3)
 * [Cours 4](https://bramas.gitlab.io/tps-c/index.html?file=cours4) [TP 4](https://bramas.gitlab.io/tps-c/index.html?file=TP4)
 * [Cours 5](https://bramas.gitlab.io/tps-c/index.html?file=cours5) [TP 5](https://bramas.gitlab.io/tps-c/index.html?file=TP5)
+* [Cours 6](https://bramas.gitlab.io/tps-c/index.html?file=cours6) [TP 6](https://bramas.gitlab.io/tps-c/index.html?file=TP6)
