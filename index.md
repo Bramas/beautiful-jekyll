@@ -18,6 +18,8 @@ I studied mathematics at the University of Clermont-Ferrand and computer science
 
 ## Seminars
 
-25/05/2018, ICUBE Seminar : Introduction to Blockchains [slides](/slides/Introduction to DLTs.pdf)
+12/06/2019, Blockchain Workshop LINCS  [slides](/slides/LINCS Blockchain Workshop.pdf)
 
 20/06/2018, PEPS project meeting on Large evolving graph : The graph of transactions in the IOTA cryptocurrency  [slides](/slides/The graph of transactions in the IOTA cryptocurrency.pdf)
+
+25/05/2018, ICUBE Seminar : Introduction to Blockchains [slides](/slides/Introduction to DLTs.pdf)
