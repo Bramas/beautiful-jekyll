@@ -16,7 +16,11 @@ I am working on:
 
 I studied mathematics at the University of Clermont-Ferrand and computer science at the University of Paris 5.
 
-## Seminars
+## Presentations
+
+
+21/06/2019, NETYS 2019 - Distributed Online Data Aggregation in Dynamic Graphs  [slides](/slides/NETYS_2019_DODA.pdf)
+21/06/2019, NETYS 2019 - How To Select its Parents in the Tangle  [slides](/slides/NETYS_2019_Tangle.pdf)
 
 12/06/2019, Blockchain Workshop LINCS  [slides](/slides/LINCS Blockchain Workshop.pdf)
 
