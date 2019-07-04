@@ -74,8 +74,7 @@ How many ants does it take to find the food?.*
 * lights with fixed colors (3 colors)
 * visibility range = one.
 
-
-[6-robots-fixed-colors.html](./6-robots-fixed-colors.html)
+<iframe style="margin:0; width:100%; border:0; height:70%" src="./6-robots-fixed-colors.html" />
 
 ---
 ### Rules
@@ -182,7 +181,7 @@ How many ants does it take to find the food?.*
 * lights with fixed colors (3 colors)
 * visibility range = one.
 
-[6-robots-fixed-colors.html](./6-robots-fixed-colors.html)
+<iframe style="margin:0; width:100%; border:0; height:70%" src="./6-robots-fixed-colors.html" />
 
 ---
 ## Impossibility Results
@@ -201,8 +200,7 @@ Infinite Grid Exploration by Disoriented Robots. arXiv preprint arXiv:1905.09271
 * lights with modifiable colors (5 colors)
 * visibility range = one.
 
-[5-robots-5-modifiable-colors.html](./5-robots-5-modifiable-colors.html)
-
+<iframe style="margin:0; width:100%; border:0; height:70%" src="./5-robots-5-modifiable-colors.html" />
 ---
 
 ## Algorithm 3
@@ -211,7 +209,7 @@ Infinite Grid Exploration by Disoriented Robots. arXiv preprint arXiv:1905.09271
 * no lights
 * visibility range = two.
 
-[range2-7-robots.html](./range2-7-robots.html)
+<iframe style="margin:0; width:100%; border:0; height:70%" src="./range2-7-robots.html" />
 
 ---
 
