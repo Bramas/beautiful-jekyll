@@ -19,6 +19,8 @@ I studied mathematics at the University of Clermont-Ferrand and computer science
 ## Presentations
 
 
+04/07/2019, SIROCCO 2019 - Infinite Grid Exploration by Disoriented Robots [slides](/slides/sirocco2019)
+
 21/06/2019, NETYS 2019 - Distributed Online Data Aggregation in Dynamic Graphs  [slides](/slides/NETYS_2019_DODA.pdf)
 21/06/2019, NETYS 2019 - How To Select its Parents in the Tangle  [slides](/slides/NETYS_2019_Tangle.pdf)
 
