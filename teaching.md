@@ -13,21 +13,5 @@ Sur moodle
 
 ## Algorithmique et Programmation C
 
-[Documentation](https://bramas.gitlab.io/libtps.h/)
+Sur Moodle
 
-* [Cours 1](https://bramas.gitlab.io/tps-c/), [CI 1](https://bramas.gitlab.io/tps-c/index.html?file=CI1), [TP 1](https://bramas.gitlab.io/tps-c/index.html?file=TP1)
-* [Cours 2](https://bramas.gitlab.io/tps-c/index.html?file=cours2) [TP 2](https://bramas.gitlab.io/tps-c/index.html?file=TP2)
-* [Cours 3](https://bramas.gitlab.io/tps-c/index.html?file=cours3) [TP 3](https://bramas.gitlab.io/tps-c/index.html?file=TP3)
-* [Cours 4](https://bramas.gitlab.io/tps-c/index.html?file=cours4) [TP 4](https://bramas.gitlab.io/tps-c/index.html?file=TP4)
-* [Cours 5](https://bramas.gitlab.io/tps-c/index.html?file=cours5) [TP 5](https://bramas.gitlab.io/tps-c/index.html?file=TP5)
-* [Cours 6](https://bramas.gitlab.io/tps-c/index.html?file=cours6) [TP 6](https://bramas.gitlab.io/tps-c/index.html?file=TP6)
-* [Cours 7](https://bramas.gitlab.io/tps-c/index.html?file=cours7) [TP 7](https://bramas.gitlab.io/tps-c/index.html?file=TP7)
-* [Cours 8](https://bramas.gitlab.io/tps-c/index.html?file=cours8) [TP 8](https://bramas.gitlab.io/tps-c/index.html?file=TP8)
-
-# TP noté 1
-* [https://api.tps.bramas.fr/api/problems/note1/plaque-immatriculation.tar.gz](https://api.tps.bramas.fr/api/problems/note1/plaque-immatriculation.tar.gz)
-* [https://api.tps.bramas.fr/api/problems/note1/concat.tar.gz](https://api.tps.bramas.fr/api/problems/note1/concat.tar.gz)
-
-# TP noté 2
-* [https://api.tps.bramas.fr/api/problems/note2/save-array.tar.gz](https://api.tps.bramas.fr/api/problems/note2/save-array.tar.gz)
-* [https://api.tps.bramas.fr/api/problems/note2/sort-array.tar.gz](https://api.tps.bramas.fr/api/problems/note2/sort-array.tar.gz)
