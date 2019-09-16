@@ -14,7 +14,9 @@ Sur moodle
 ## Algorithmique et Programmation C
 
 
-CI1 : https://bramas.gitlab.io/tps-c/?file=CI1#1
+* Cours1 : [https://bramas.gitlab.io/tps-c/](https://bramas.gitlab.io/tps-c/)
+* CI1 :    [https://bramas.gitlab.io/tps-c/?file=CI1#1](https://bramas.gitlab.io/tps-c/?file=CI1#1)
+* Cours2 : [https://bramas.gitlab.io/tps-c/?file=cours2](https://bramas.gitlab.io/tps-c/?file=cours2)
 
 
 * bonjour https://bramas.pages.unistra.fr/tps-c-problems/archives/21427f63c2a39d551969f63f08bfad79fd0f42ef9c92c269e620b0d855cd0999.tar.gz
@@ -23,4 +25,3 @@ CI1 : https://bramas.gitlab.io/tps-c/?file=CI1#1
 * tonneaux https://bramas.pages.unistra.fr/tps-c-problems/archives/932151e2d3097e67463abe7c182ace925b2a6212a28c57d9c9837e3a085d3109.tar.gz
 * cylindres https://bramas.pages.unistra.fr/tps-c-problems/archives/2db184bbe5450225dbcc2eb6f80ad45c355b676d9c9ab0c162fbaa58d80c22c4.tar.gz
 * molkky https://bramas.pages.unistra.fr/tps-c-problems/archives/9a8f33d77dce913d6f0612ae41199d5e01669aea5488d55bb2cd319fb1e94fe3.tar.gz
-
