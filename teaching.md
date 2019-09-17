@@ -19,6 +19,23 @@ Sur moodle
 * Cours2 : [https://bramas.gitlab.io/tps-c/?file=cours2](https://bramas.gitlab.io/tps-c/?file=cours2)
 
 
+Pour les TP, j'ai créé un script qui permet de télécharger et extraire automatiquement les problèmes disponibles.
+
+Télécharger le script à la racine de votre repository (placez vous dans le dossier avec cd puis exécuter la ligne suivante)
+
+wget -O prepare.py https://git.unistra.fr/snippets/132/raw
+sudo apt update
+sudo apt-get -y install python3-pip
+pip3 install console-menu
+pip3 install requests
+( si pip3 install ne fonctionne pas, essayez de les lancer précédé de la commande sudo )
+
+Ensuite lancer le script:
+
+python3 prepare.py
+
+
+
 * bonjour https://bramas.pages.unistra.fr/tps-c-problems/archives/21427f63c2a39d551969f63f08bfad79fd0f42ef9c92c269e620b0d855cd0999.tar.gz
 * correction https://bramas.pages.unistra.fr/tps-c-problems/archives/706c4a25b8814d89e0321a7110f27f4daafdbb57ab178ddc049aba621a2f0229.tar.gz
 * lorem https://bramas.pages.unistra.fr/tps-c-problems/archives/e74a5427b668073112adef15a2747b30cb2b8fc7d6ef11c9ebe5b0444a0b3aad.tar.gz
