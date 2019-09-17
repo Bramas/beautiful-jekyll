@@ -23,12 +23,12 @@ Pour les TP, j'ai créé un script qui permet de télécharger et extraire autom
 
 Télécharger le script à la racine de votre repository (placez vous dans le dossier avec cd puis exécuter la ligne suivante)
 
-wget -O prepare.py https://git.unistra.fr/snippets/132/raw
-sudo apt update
-sudo apt-get -y install python3-pip
-pip3 install console-menu
-pip3 install requests
-( si pip3 install ne fonctionne pas, essayez de les lancer précédé de la commande sudo )
+* wget -O prepare.py https://git.unistra.fr/snippets/132/raw
+* sudo apt update
+* sudo apt -y install python3-pip
+* pip3 install console-menu
+* pip3 install requests
+* ( si pip3 install ne fonctionne pas, essayez de les lancer précédé de la commande sudo )
 
 Ensuite lancer le script:
 
