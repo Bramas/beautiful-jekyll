@@ -10,6 +10,7 @@ I am a Assistant Professor (*Maître de conférences*) at the University of Stra
 
 I am working on:
 
+ - Blockchain Technologies
  - Wireless Sensor Networks
  - Dynamic graphs
  - Autonomous mobile robots
@@ -18,6 +19,7 @@ I studied mathematics at the University of Clermont-Ferrand and computer science
 
 ## Presentations
 
+22/10/2019 SSS 2019 - Hands on Blockchain [git repository](https://git.unistra.fr/bramas/tutorial-sss) [slides](https://git.unistra.fr/bramas/tutorial-sss/raw/master/SSS_tutorial.pdf)
 
 04/07/2019, SIROCCO 2019 - Infinite Grid Exploration by Disoriented Robots [slides](/slides/sirocco2019)
 
