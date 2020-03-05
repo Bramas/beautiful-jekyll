@@ -19,6 +19,8 @@ I studied mathematics at the University of Clermont-Ferrand and computer science
 
 ## Presentations
 
+05/03/2020 Tokyo Tech Presentation - IOTA and the Tangle [slides](/slides/IOTA%20and%20the%20tangle_protocol%20application%20and%20future%20work.pdf)
+
 22/10/2019 SSS 2019 - Hands on Blockchain [git repository](https://git.unistra.fr/bramas/tutorial-sss) [slides](https://git.unistra.fr/bramas/tutorial-sss/raw/master/SSS_tutorial.pdf)
 
 04/07/2019, SIROCCO 2019 - Infinite Grid Exploration by Disoriented Robots [slides](/slides/sirocco2019)
